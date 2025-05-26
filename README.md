@@ -3,10 +3,9 @@ En este repositorio se pone al alcance del lector el código de R desarollado pa
 
 El código disponible se basa en los diferentes scripts de R desarrollados para la obtención de los resultados mostrados en el trabajo. Los scripts están divididos según su utilidad.
 
-- Estructuración de los datos
 - Análisis Exploratorio
 - Ajuste de modelos y selección de variables
 - Interpolación
 - Resultados de inferencia
 
-Adicionalmente, se añaden datos que requieran ser importados en los scripts anteriores.
+Adicionalmente, se añaden datos ya preprocesados que requieran ser importados en los scripts anteriores. Algunos de estos se obtienen en los propios scripts proporcionados. En caso de errores utilizar los datos adjuntados. 
