@@ -7,5 +7,6 @@ El código disponible se basa en los diferentes scripts de R desarrollados para 
 - Ajuste de modelos y selección de variables
 - Interpolación
 - Resultados de inferencia
+- Escritura de tablas en LaTex
 
 Adicionalmente, se añaden datos ya preprocesados que requieran ser importados en los scripts anteriores. Algunos de estos se obtienen en los propios scripts proporcionados. En caso de errores utilizar los datos adjuntados. 
