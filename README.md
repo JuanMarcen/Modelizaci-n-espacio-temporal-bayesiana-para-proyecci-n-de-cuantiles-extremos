@@ -3,10 +3,11 @@ En este repositorio se pone al alcance del lector el código de R desarollado pa
 
 El código disponible se basa en los diferentes scripts de R desarrollados para la obtención de los resultados mostrados en el trabajo. Los scripts están divididos según su utilidad.
 
+- Estructuración de datos
 - Análisis Exploratorio
 - Ajuste de modelos y selección de variables
 - Interpolación
 - Resultados de inferencia
 - Escritura de tablas en LaTex
 
-Adicionalmente, se añaden datos ya preprocesados que requieran ser importados en los scripts anteriores. Algunos de estos se obtienen en los propios scripts proporcionados. En caso de errores utilizar los datos adjuntados. 
+Los datos de temperatura máxima diaria han sido descargados de la base de datos ECAD. Los datos de geopotencial han sido descargados de la base de datos de reanálisis ERA5. Se pone a disposición del usuario las coordenadas de las estaciones de temperatura y, fechas y coordenadas de las estaciones de geopotencial. 
