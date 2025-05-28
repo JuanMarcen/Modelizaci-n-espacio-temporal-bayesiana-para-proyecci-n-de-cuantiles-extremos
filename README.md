@@ -10,4 +10,4 @@ El código disponible se basa en los diferentes scripts de R desarrollados para 
 - Resultados de inferencia
 - Escritura de tablas en LaTex
 
-Los datos de temperatura máxima diaria han sido descargados de la base de datos ECAD. Los datos de geopotencial han sido descargados de la base de datos de reanálisis ERA5. Se pone a disposición del usuario las coordenadas de las estaciones de temperatura y, fechas y coordenadas de las estaciones de geopotencial. 
+Los datos de temperatura máxima diaria han sido descargados de la base de datos ECAD. Los datos de geopotencial han sido descargados de la base de datos de reanálisis ERA5. Se pone a disposición del usuario las coordenadas de las estaciones de temperatura y, fechas y coordenadas de las estaciones de geopotencial. El resto de datos utilizados se consiguen a partir de los scripts adjuntados.
